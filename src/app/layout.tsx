@@ -18,17 +18,17 @@ const rajdhani = Rajdhani({
 export const metadata: Metadata = {
   metadataBase: new URL("https://aliforte.vercel.app"),
   title: {
-    default: `${company.name} | Distribuidora B2B de Racoes`,
+    default: `${company.name} | Distribuidora de Racoes`,
     template: `%s | ${company.name}`,
   },
   description:
-    "Site institucional da Aliforte, distribuidora B2B de racoes em Guarapuava - PR, com area comercial, produtos, vagas e painel administrativo.",
+    "Site institucional da Aliforte, distribuidora de raçoes em Guarapuava - PR, com area comercial, produtos, vagas e painel administrativo.",
   icons: {
     icon: "/icon.png",
     apple: "/icon.png",
   },
   openGraph: {
-    title: `${company.name} | Distribuidora B2B de Racoes`,
+    title: `${company.name} | Distribuidora de Racoes`,
     description:
       "Parceira comercial para empresas, com operacao estruturada, atendimento consultivo e oportunidades profissionais.",
     url: "https://aliforte.vercel.app",

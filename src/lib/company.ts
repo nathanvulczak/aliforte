@@ -3,7 +3,7 @@ import { formatPhoneBR } from "@/lib/formatters";
 export const company = {
   name: "Aliforte",
   tagline:
-    "Distribuicao B2B de racoes com foco em abastecimento recorrente, atendimento proximo e relacionamento comercial.",
+    "Distribuicao de racoes com foco em abastecimento recorrente, atendimento proximo e relacionamento comercial.",
   foundedYear: 2015,
   address: "R. Ver. Ailton Jaskulski, 159 - Vila Bela, Guarapuava - PR, 85025-080",
   phoneRaw: "42999442646",
